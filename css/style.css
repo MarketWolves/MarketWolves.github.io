@@ -78,6 +78,7 @@ section {
 }
 
 .card {
+  background-color: #000 !important;
   position: relative;
   padding: 0;
   border: 0;
