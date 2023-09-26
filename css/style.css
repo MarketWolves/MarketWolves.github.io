@@ -55,7 +55,7 @@ a {
 }
 
 .btn:hover {
-  background-color: #E04F00;
+  background-color: #DAA520;
   color: #fff;
 }
 
@@ -475,7 +475,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-family: "Raleway", Helvetica, Arial, sans-serif;
   font-weight: 500;
   color: #666;
-  border: 6px solid #000000;
+  border: 6px solid #DAA520;
   border-radius: 50%;
   padding: 55px 25px 0 25px;
   position: relative;
