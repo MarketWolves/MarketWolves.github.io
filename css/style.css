@@ -49,7 +49,7 @@ a {
   border-color: white;
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-weight: 800;
-  color: #fff;
+  color: #daa520;
   padding: 15px 45px;
   border-radius: 50px;
 }
@@ -776,7 +776,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact .info i {
   font-size: 32px;
-  color: #000000;
+  color: #daa520;
   float: left;
 }
 
@@ -897,7 +897,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .site-footer .credits a {
-  color: #000000;
+  color: #fff;
 }
 
 /* ==================================================
