@@ -715,7 +715,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .team .card:hover .card-title-wrap {
-  background-color: #000000;
+  background-color: #DAA520;
 }
 
 .team .card:hover .card-title-wrap .card-title, .team .card:hover .card-title-wrap .card-text {
@@ -743,7 +743,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 15px 25px;
   position: relative;
   z-index: 9;
-  background-color: #fff;
+  background-color: #000000;
 }
 
 .team .card-title-wrap .card-title, .team .card-title-wrap .card-text {
@@ -754,12 +754,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .team .card-title-wrap .card-title {
   font-size: 24px;
-  color: #333;
+  color: #fff;
 }
 
 .team .card-title-wrap .card-text {
   font-size: 18px;
-  color: #999;
+  color: #fff;
 }
 
 /* ==================================================
